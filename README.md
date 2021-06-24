@@ -1,4 +1,4 @@
-# Directus9-category-interface
+# Directus9-extension-tree-interface
 
 ## Installation
 
