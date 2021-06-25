@@ -8,7 +8,7 @@ export default {
     input: 'src/index.js',
     output: {
         format: 'es',
-        file: '9category/index.js',
+        file: 'dist/index.js',
     },
     plugins: [
         vue(),
